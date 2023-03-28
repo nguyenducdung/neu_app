@@ -1,0 +1,21 @@
+{
+  "common": {
+    "button": {
+      "close": "Đóng",
+      "transfer": "Chuyển",
+      "history": "Lịch sử",
+      "continue": "Tiếp tục",
+      "confirm": "Xác nhận"
+    }
+  },
+  "login": {
+    "login": "Đăng nhập"
+  },
+  "home": {
+    "title": "Trang chủ"
+  },
+  "settings": {
+    "title": "Cài đặt",
+    "language": "Ngôn ngữ"
+  }
+}
